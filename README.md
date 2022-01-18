@@ -2,7 +2,7 @@
 
 Text-based adventure game under development with Python.
 
-Try latest online version (spanish): https://guidocano.github.io/Portfolio/rts.html#rts
+Try latest version online (spanish): https://guidocano.github.io/Portfolio/rts.html#rts
 
 <img src="https://github.com/guidocano/Road-Trip-Simulator/blob/main/rts1.jpg" width="400" > <img src="https://github.com/guidocano/Road-Trip-Simulator/blob/main/rts2.jpg" width="400" >
 
