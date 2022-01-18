@@ -1,6 +1,6 @@
 # Road-Trip-Simulator
 
-Text-based adventure game in development with Python.
+Text-based adventure game under development with Python.
 
 Try latest online version (spanish): https://guidocano.github.io/Portfolio/rts.html#rts
 
